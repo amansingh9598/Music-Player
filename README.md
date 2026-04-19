@@ -1,8 +1,8 @@
-##🎵Music Player
+#🎵Music Player
 
 A modern and responsive web-based music player built using HTML, CSS, and JavaScript. This project provides a smooth and interactive user experience for playing audio tracks with essential controls and a clean UI.
 
-###🚀 Features
+##🚀 Features
 ▶️ Play / Pause music
 ⏭️ Next / Previous track navigation
 🔊 Volume control
@@ -11,11 +11,11 @@ A modern and responsive web-based music player built using HTML, CSS, and JavaSc
 🎨 Responsive and clean UI design
 ⚡ Lightweight and fast performance
 
-###🛠️ Tech Stack
+##🛠️ Tech Stack
 Frontend: HTML5, CSS3, JavaScript
 Audio Handling: HTML5 Audio API
 
-###📂 Project Structure
+##📂 Project Structure
 Music-Player/
 │── index.html
 │── style.css
@@ -23,12 +23,12 @@ Music-Player/
 │── songs/
 │── assets/
 
-###⚙️ Installation & Setup
+##⚙️ Installation & Setup
 1.Clone the repository - git clone https://github.com/amansingh9598/Music-Player.git
 2.Navigate to project folder - cd Music-Player
 3.Open in browser - Open index.html
 
-###💡 How It Works
+##💡 How It Works
 Uses the HTML5 <audio> element to play music files
 JavaScript handles:
 Track switching
@@ -47,6 +47,6 @@ CSS is used for styling and responsiveness
 Contributions are welcome!
 Feel free to fork this repository and submit a pull request.
 
-###👨‍💻 Author
+##👨‍💻 Author
 Aman Singh
 GitHub: https://github.com/amansingh9598

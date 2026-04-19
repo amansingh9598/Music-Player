@@ -1,4 +1,4 @@
-###🎵 Music Player
+##🎵Music Player
 
 A modern and responsive web-based music player built using HTML, CSS, and JavaScript. This project provides a smooth and interactive user experience for playing audio tracks with essential controls and a clean UI.
 

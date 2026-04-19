@@ -34,9 +34,9 @@ JavaScript handles:
 Track switching
 Progress updates
 Playback controls
+CSS is used for styling and responsiveness
 
-## CSS is used for styling and responsiveness
-📌 Future Improvements
+## 📌 Future Improvements
 🔍 Search functionality
 ❤️ Favorites / Like songs
 📱 Mobile-first UI improvements
